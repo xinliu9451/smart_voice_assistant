@@ -5,12 +5,10 @@
 ## 🎥 演示视频
 
 ### 基础功能演示
-https://github.com/xinliu9451/smart_voice_assistant/assets/语音助手演示.mp4
 
 点击观看：[语音助手演示视频](https://github.com/xinliu9451/smart_voice_assistant/blob/main/assets/%E8%AF%AD%E9%9F%B3%E5%8A%A9%E6%89%8B%E6%BC%94%E7%A4%BA.mp4)
 
 ### RAG 功能演示
-https://github.com/xinliu9451/smart_voice_assistant/assets/语音助手演示_RAG.mp4
 
 点击观看：[RAG 功能演示视频](https://github.com/xinliu9451/smart_voice_assistant/blob/main/assets/%E8%AF%AD%E9%9F%B3%E5%8A%A9%E6%89%8B%E6%BC%94%E7%A4%BA_RAG.mp4)
 
